@@ -1,9 +1,8 @@
 .row{
-    background: slategray;
+    background-color: slategray;
     padding: 20px;
 }
 
 h1{
     text-align: center;
 }
-
